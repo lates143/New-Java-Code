@@ -17,7 +17,7 @@ public class IsuppercaseIslowercase {
 			else if(Character.isLowerCase(ch)) {
 				isLowercase++;
 			}
-	
+		
 		}
 		
 		System.out.println("Uppercase count is " +isUppercase);
